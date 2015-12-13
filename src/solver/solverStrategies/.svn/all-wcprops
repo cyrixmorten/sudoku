@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies
+END
+UniqueOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/UniqueOption.java
+END
+XYChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/XYChain.java
+END
+NakedTwins.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/slackvault/!svn/ver/109/SudokuSolver/src/solver/solverStrategies/NakedTwins.java
+END
+HiddenPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/HiddenPair.java
+END
+SwordFish.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/SwordFish.java
+END
+NakedTriplets.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/slackvault/!svn/ver/112/SudokuSolver/src/solver/solverStrategies/NakedTriplets.java
+END
+XChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/XChain.java
+END
+OneOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/OneOption.java
+END
+SimpleColouring.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/SimpleColouring.java
+END
+BoxLineReduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/BoxLineReduction.java
+END
+HiddenTriplets.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/HiddenTriplets.java
+END
+PointingPairs.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/PointingPairs.java
+END
+JellyFish.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/JellyFish.java
+END
+XWing.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/XWing.java
+END
+ShowOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/slackvault/!svn/ver/107/SudokuSolver/src/solver/solverStrategies/ShowOptions.java
+END
+YWing.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/slackvault/!svn/ver/113/SudokuSolver/src/solver/solverStrategies/YWing.java
+END
